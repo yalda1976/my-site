@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Great+Vibes&family=Montserrat:wght@100;400;700;900&family=Roboto:wght@300;400&family=Satisfy&family=WindSong&display=swap');
+
+body {
+  color: #F1F1F1;
+  background-color: #F1F1F1; 
+}
+
+a {
+  text-decoration: none;
+  color: #F1F1F1;
+}
+
+.block {
+  text-align: left;
+}
+
+.countainer{
+  margin: 0 10%;
+}
+
+.light-section{
+  background-color: #F1F1F1;
+  margin: o;
+}
+
+.nav-item.nav-link{
+  margin: 25px;
+}
+
+.text-right {
+  text-align: right;
+}
+
+img.box {
+  height: 30vh;
+  width: 30vh;
+  object-fit: fill;
+  margin: 7% 0;
+}
+
+.button {
+  width: 100%;
+  cursor: pointer;
+  border-radius: 1rem;
+  height: 10vh;
+}
+
+.button.add {
+  background-color: #E6B325;
+}
+
+.button.remove {
+  background-color: #E2DCC8;
+}
+
+.card {
+  background-color: #F1F1F1;
+  padding: calc(8px + 1.5625vw);
+  margin: 3px;
+  text-align: center;
+  color: #0F3D3E ;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: calc(8px + 1.5625vw);
+  background-color: #0F3D3E;
+}
+
+.row.center {
+  align-items: center;
+}
+
+.column1 {
+  flex-basis: 100%;
+}
+
+.column2 {
+  flex-basis: 100%;
+  margin: 1px;
+}
+
+@media screen and (min-width: 500px) {
+  .column1 {
+    flex: 1;
+  }
+  .column2 {
+    flex: 2;
+  }
+}
+
+#footer {
+padding-top: 140px;
+}
