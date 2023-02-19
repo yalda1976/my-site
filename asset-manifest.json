@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yalda1976.github.io/my-site/static/css/main.816daf7e.css",
+    "main.js": "/yalda1976.github.io/my-site/static/js/main.7e18f9e1.js",
+    "static/media/BG-cta.jpg": "/yalda1976.github.io/my-site/static/media/BG-cta.4d419421b2762e5a8351.jpg",
+    "index.html": "/yalda1976.github.io/my-site/index.html",
+    "main.816daf7e.css.map": "/yalda1976.github.io/my-site/static/css/main.816daf7e.css.map",
+    "main.7e18f9e1.js.map": "/yalda1976.github.io/my-site/static/js/main.7e18f9e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.816daf7e.css",
+    "static/js/main.7e18f9e1.js"
+  ]
+}
