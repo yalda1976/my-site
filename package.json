@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "yalda1976.github.io/my-site",
+  "homepage": "https://yalda1976.github.io/my-site",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
